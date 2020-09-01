@@ -11,6 +11,9 @@ color:black;
 &:hover{
     background-image: url('https://i.gifer.com/77nH.gif');
 }
+h2:hover{
+    color: coral
+}
 `
 
 class Usercard extends React.Component {
